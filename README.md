@@ -7,6 +7,8 @@ SCRAPING DATA: The data is scraped from Google and amazon reviews. The amazon si
 TRANSLATION OF TEXT: Translation of text is done differently for Google and amazon as amazon data needed some further pre-processing. For detecting the text language langdetect is used. To translate the text translators library is used to request google translator. Google reviews didn’t have any other languages but amazon reviews were in many languages.
 
 EMOJI TO TEXT: To convert emoji to text emoji library is used.
+![image](https://user-images.githubusercontent.com/47523576/236010751-04d2e495-779d-4d12-89c3-11c3c001b159.png)
+
 
 TRANSLATION OF SLANG/ SHORTENED WORDS: To translate this the first the slang words dictionary is scraped. Slan_words.ipynb file scrapes the dictionary and stores it in json format as ShortenedText.json. 
 
