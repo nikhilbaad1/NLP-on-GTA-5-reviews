@@ -15,13 +15,4 @@ TRANSLATION OF SLANG/ SHORTENED WORDS: To translate this the first the slang wor
 ![image](https://user-images.githubusercontent.com/47523576/236007320-f052d84b-6ddb-4121-875b-267dd8026f79.png)
 
 MACHINE LEARNING:
-Vector	                                  Algorithm	       Train Acc.	Test Acc.
-Uni-gram TFIDF	                          Random Forest	   85.80	    85.805
-Uni-gram TFIDF top 10 features	          Random Forest	   86.44	    86.92
-Uni-gram TFIDF	                          Naïve Bayes		   55.01
-Uni-gram TFIDF	                          Kernal SVM	     83.63	
-Uni-gram top 2500 features	              NLTK Naïve Bayes 85.63	    82.35
-Bag of Words	                            Random Forest	   86.12	    85.08
-Bi Grams TFIDF	                          Random Forest	   84.03	    84.76
-Top 20000 Bigrams and 2000 Unigrams TFIDF	Random Forest	   85.01	    84.92
-
+<img width="280" alt="image" src="https://user-images.githubusercontent.com/47523576/236010961-19ac236d-e66a-4452-bb6b-0cb0c1209577.png">
