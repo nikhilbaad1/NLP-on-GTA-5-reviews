@@ -9,11 +9,9 @@ TRANSLATION OF TEXT: Translation of text is done differently for Google and amaz
 EDA:
 
 Word Cloud
-
 ![image](https://user-images.githubusercontent.com/47523576/236011286-21bc3d86-de74-4f32-a3f4-edcd36e3f7d4.png)
 
 20 most common words
-
 ![image](https://user-images.githubusercontent.com/47523576/236011351-25f54d71-eb1c-4150-aa7e-93ff57d30b8c.png)
 
 
