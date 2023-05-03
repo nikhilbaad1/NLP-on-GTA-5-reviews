@@ -15,4 +15,5 @@ TRANSLATION OF SLANG/ SHORTENED WORDS: To translate this the first the slang wor
 ![image](https://user-images.githubusercontent.com/47523576/236007320-f052d84b-6ddb-4121-875b-267dd8026f79.png)
 
 MACHINE LEARNING:
+
 <img width="280" alt="image" src="https://user-images.githubusercontent.com/47523576/236010961-19ac236d-e66a-4452-bb6b-0cb0c1209577.png">
