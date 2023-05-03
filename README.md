@@ -7,10 +7,13 @@ SCRAPING DATA: The data is scraped from Google and amazon reviews. The amazon si
 TRANSLATION OF TEXT: Translation of text is done differently for Google and amazon as amazon data needed some further pre-processing. For detecting the text language langdetect is used. To translate the text translators library is used to request google translator. Google reviews didn’t have any other languages but amazon reviews were in many languages.
 
 EDA:
+
 Word Cloud
+
 ![image](https://user-images.githubusercontent.com/47523576/236011286-21bc3d86-de74-4f32-a3f4-edcd36e3f7d4.png)
 
 20 most common words
+
 ![image](https://user-images.githubusercontent.com/47523576/236011351-25f54d71-eb1c-4150-aa7e-93ff57d30b8c.png)
 
 
