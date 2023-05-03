@@ -9,6 +9,7 @@ TRANSLATION OF TEXT: Translation of text is done differently for Google and amaz
 EMOJI TO TEXT: To convert emoji to text emoji library is used.
 
 TRANSLATION OF SLANG/ SHORTENED WORDS: To translate this the first the slang words dictionary is scraped. Slan_words.ipynb file scrapes the dictionary and stores it in json format as ShortenedText.json. 
+
 ![image](https://user-images.githubusercontent.com/47523576/236007320-f052d84b-6ddb-4121-875b-267dd8026f79.png)
 
 MACHINE LEARNING:
